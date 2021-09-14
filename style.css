@@ -9,3 +9,8 @@ header {
   background: #166088;
   color: white;
 }
+
+main {
+	padding: 3em 0;
+	font-size: 20px;
+}
