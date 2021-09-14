@@ -8,6 +8,7 @@ body {
 header {
   background: #166088;
   color: white;
+  padding: 0.5em 0;
 }
 
 main {
@@ -17,4 +18,5 @@ main {
 
 footer {
   background-color: #dbe9ee;
+  padding: 0.5em 0;
 }
